@@ -12,3 +12,8 @@
  - Organização:
 
 ## Equipe
+
+ - Gleysson Coura: 2017074173
+ - Guilherme Mendonça 
+ - Rafael Figueiredo 
+ - Yasmin Araujo  
