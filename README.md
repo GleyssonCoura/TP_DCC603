@@ -2,6 +2,8 @@
 
 ## Objetivo
 
+  Simular exercícios de matemática.
+
 ## Características
 
 ## Sistema
