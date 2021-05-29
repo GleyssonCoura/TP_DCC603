@@ -6,9 +6,9 @@
 
 ## Sistema
   
-  Front:
-  Back:
-  BD:
-  Organização:
+ - Front:
+ - Back:
+ - BD:
+ - Organização:
 
 ## Equipe
