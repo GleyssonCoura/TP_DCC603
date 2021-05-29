@@ -10,8 +10,8 @@
   
  - Front:
  - Back:
- - BD:
- - Organização:
+ - BD: MySQL
+ - Organização: Trello
 
 ## Equipe
 
