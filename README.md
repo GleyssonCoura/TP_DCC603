@@ -6,6 +6,8 @@
 
 ## Características
 
+
+
 ## Sistema
   
  - Front:
@@ -15,7 +17,9 @@
 
 ## Equipe
 
- - Gleysson Coura: 2017074173
- - Guilherme Mendonça 
- - Rafael Figueiredo 
- - Yasmin Araujo  
+ - Gleysson Coura: Banco de Dados
+ - Guilherme Mendonça: Backend 
+ - Rafael Figueiredo: Frontend 
+ - Yasmin Araujo: Frontend  
+
+## Backlog do Produto
