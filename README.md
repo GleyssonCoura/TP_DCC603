@@ -23,3 +23,12 @@ Simular exercícios de matemática.
  - Yasmin Araujo: Frontend  
 
 ## Backlog do Produto
+
+
+
+## Backlog do Sprint
+
+
+
+## Diagrama da Arquitetura
+
