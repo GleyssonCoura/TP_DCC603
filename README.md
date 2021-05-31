@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-  Simular exercícios de matemática.
+Simular exercícios de matemática.
 
 ## Características
 
