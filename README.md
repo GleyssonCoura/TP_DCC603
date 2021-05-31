@@ -1,26 +1,26 @@
 # TP_DCC603
 
+## Equipe
+
+Gleysson Coura: Banco de Dados
+Guilherme Mendonça: Backend 
+Rafael Figueiredo: Frontend 
+Yasmin Araujo: Frontend  
+
 ## Objetivo
 
 Simular exercícios de matemática.
 
-## Características
+## Funcionalidades
 
 
 
-## Sistema
+## Tecnologias
   
- - Front:
- - Back:
- - BD: MySQL
- - Organização: Trello
-
-## Equipe
-
- - Gleysson Coura: Banco de Dados
- - Guilherme Mendonça: Backend 
- - Rafael Figueiredo: Frontend 
- - Yasmin Araujo: Frontend  
+Front:
+Back:
+BD: MySQL
+Organização: Trello
 
 ## Backlog do Produto
 
@@ -28,7 +28,15 @@ Simular exercícios de matemática.
 
 ## Backlog do Sprint
 
+### História
 
+#### Concluídas
+
+Tarefa - Responsável
+
+#### Pendentes
+
+Tarefa - Responsável
 
 ## Diagrama da Arquitetura
 
