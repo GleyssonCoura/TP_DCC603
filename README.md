@@ -30,11 +30,11 @@ Simular exercícios de matemática.
 
 ### História
 
-#### Concluídas
+- Concluídas
 
 Tarefa - Responsável
 
-#### Pendentes
+- Pendentes
 
 Tarefa - Responsável
 
