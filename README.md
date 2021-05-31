@@ -28,15 +28,15 @@ Simular exercícios de matemática.
 
 ## Backlog do Sprint
 
-### História
+### Histórias
 
 - Concluídas
 
-Tarefa - Responsável
+  Tarefa - Responsável
 
 - Pendentes
 
-Tarefa - Responsável
+  Tarefa - Responsável
 
 ## Diagrama da Arquitetura
 
