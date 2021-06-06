@@ -9,11 +9,7 @@
 
 ## Objetivo
 
-Simular exercícios de matemática.
-
-## Funcionalidades
-
-
+Simular exercícios de matemática em interface web.
 
 ## Tecnologias
   
@@ -24,7 +20,11 @@ Simular exercícios de matemática.
 
 ## Backlog do Produto
 
-
+- Acessar o sistema via login
+- Responder as perguntas propostas
+- Acessar os acertos e erros
+- Acessar o gabarito geral
+- Compartilhar o resultado
 
 ## Backlog do Sprint
 
