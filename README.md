@@ -17,8 +17,8 @@ Simular exercícios de matemática.
 
 ## Tecnologias
   
-- Front:
-- Back:
+- Front: HTML e CSS
+- Back: SpringBoot
 - BD: MySQL
 - Organização: Trello
 
