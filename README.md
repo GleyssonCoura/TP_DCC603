@@ -25,29 +25,53 @@ Simular exercícios de matemática em interface web.
 
 ## Backlog do Produto
 
-- Como usuário adm, gostaria de acessar o sistema via login
-- Como usuário adm, gostaria de gerenciar (CRUD) uma página de conteúdo (Seção) sobre um determinado tema em matemática
-- Como usuário adm, gostaria de gerenciar perguntas/respostas (Quiz) para uma determinada Seção
-- Como usuário comum, gostaria de acessar o sistema via login
-- Como usuário comum, gostaria de pesquisar/filtrar e acessar diferentes Seções para ler seu conteúdo
-- Como usuário comum, gostaria de responder ao Quiz e conferir as respostas em cada Seção
-- Como usuário adm, gostaria de fazer comentários e correções em respostas dadas por usuários comuns
-- Como usuário comum, gostaria de compartilhar meu resultado em um Quiz
-- Como usuário comum, gostaria de avaliar um conteúdo e um Quiz
-- Como usuário comum, gostaria de rapidamente acessar todos os Quizes já respondidos por meu perfil
-- Como usuário comum e adm, gostaria de verificar as estatísticas de acerto globais para um Quiz
+1- * Como usuário adm, gostaria de acessar o sistema via login
+2- * Como usuário adm, gostaria de gerenciar (CRUD) uma página de conteúdo (Seção) sobre um determinado tema em matemática
+3- Como usuário adm, gostaria de gerenciar perguntas/respostas (Quiz) para uma determinada Seção
+4- Como usuário comum, gostaria de acessar o sistema via login
+5- Como usuário comum, gostaria de pesquisar/filtrar e acessar diferentes Seções para ler seu conteúdo
+6- Como usuário comum, gostaria de responder ao Quiz e conferir as respostas em cada Seção
+7- Como usuário adm, gostaria de fazer comentários e correções em respostas dadas por usuários comuns
+8- Como usuário comum, gostaria de compartilhar meu resultado em um Quiz
+9- Como usuário comum, gostaria de avaliar um conteúdo e um Quiz
+10- Como usuário comum, gostaria de rapidamente acessar todos os Quizes já respondidos por meu perfil
+11- Como usuário comum e adm, gostaria de verificar as estatísticas de acerto globais para um Quiz
+12- Como sistema, gostaria de conseguir construir um ranking de pontuação com base em acertos e em tempo de resolução do Quiz
+13- Como usuário comum e adm, gostaria de acessar o ranking de pontuação
 
 ## Backlog do Sprint
 
+1-a) Construir Tela/interfaçe de Login para Usuários administradores
+1-b) Construir Tabela 'usuario_adm' no banco para armazenar seus dados de login
+1-c) Construir funcionalidade de login no Backend
+1-d) Chamar funcionalidade de login no Frontend para o Backend. Validar logins mal sucedidos
+
+2-a) Construir tabela 'secao' no banco
+2-b) Construir tela que liste todas as seções já cadastradas
+2-c) Construir tela que permita a inserção de novas seções
+2-d) Construir tela que permita a edição de seções já 
+2-e) Permitir que ele delete uma seção
+2-f) Construir funcionalidade para fazer o CRUD das seções
+
 ### Histórias
 
-- Concluídas
+#### Concluídas
 
-  Tarefa - Responsável
+-
 
-- Pendentes
+#### Pendentes
 
-  Tarefa - Responsável
+1-a) Rafael/Yasmin
+1-b) Gleysson
+1-c) Guilherme
+1-d) Rafael/Yasmin
+
+2-a) Gleysson
+2-b) Rafael/Yasmin
+2-c) Rafael/Yasmin
+2-d) Rafael/Yasmin
+2-e) Rafael/Yasmin
+2-f) Guilherme
 
 ## Diagrama da Arquitetura
 
