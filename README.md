@@ -39,7 +39,7 @@ Simular exercícios de matemática em interface web.
 - 12- Como sistema, gostaria de conseguir construir um ranking de pontuação com base em acertos e em tempo de resolução do Quiz
 - 13- Como usuário comum e adm, gostaria de acessar o ranking de pontuação
 
-- * em andamento
+- "*" em andamento
 
 ## Backlog do Sprint
 
