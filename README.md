@@ -61,18 +61,20 @@ Simular exercícios de matemática em interface web.
 
 #### Concluídas
 
--
+1:
+- b) Gleysson
+
+2:
+- a) Gleysson
 
 #### Pendentes
 
 1:
 - a) Rafael/Yasmin
-- b) Gleysson
 - c) Guilherme
 - d) Rafael/Yasmin
 
 2:
-- a) Gleysson
 - b) Rafael/Yasmin
 - c) Rafael/Yasmin
 - d) Rafael/Yasmin
