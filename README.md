@@ -44,7 +44,7 @@ Simular exercícios de matemática em interface web.
 ## Backlog do Sprint
 
 1:
-- a) Construir Tela/interfaçe de Login para Usuários administradores
+- a) Construir Tela/interface de Login para Usuários administradores
 - b) Construir Tabela 'usuario_adm' no banco para armazenar seus dados de login
 - c) Construir funcionalidade de login no Backend
 - d) Chamar funcionalidade de login no Frontend para o Backend. Validar logins mal sucedidos
