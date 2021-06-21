@@ -21,7 +21,7 @@ public class UsuarioADMController {
 	private UsuarioADMService usuarioADMService;
 
 	@PostMapping(path = "/inserirUsuarioADM")
-	public ResponseEntity<UsuarioADM> inserirUsuarioADM(@RequestBody(required = false) UsuarioADM usuarioADM) {
+	public ResponseEntity<UsuarioADM> inserirUsuarioADM(@RequestBody(required = false) UsuarioADM usuarioADM) throws Exception {
 		return new ResponseEntity<UsuarioADM>(this.usuarioADMService.inserirUsuarioADM(usuarioADM), HttpStatus.OK);
 	}
 }
