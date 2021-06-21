@@ -27,7 +27,7 @@ Simular exercícios de matemática em interface web.
 
 - 1- * Como usuário adm, gostaria de acessar o sistema via login
 - 2- * Como usuário adm, gostaria de gerenciar (CRUD) uma página de conteúdo (Seção) sobre um determinado tema em matemática
-- 3- Como usuário adm, gostaria de gerenciar perguntas/respostas (Quiz) para uma determinada Seção
+- 3- * Como usuário adm, gostaria de gerenciar perguntas/respostas (Quiz) para uma determinada Seção
 - 4- Como usuário comum, gostaria de acessar o sistema via login
 - 5- Como usuário comum, gostaria de pesquisar/filtrar e acessar diferentes Seções para ler seu conteúdo
 - 6- Como usuário comum, gostaria de responder ao Quiz e conferir as respostas em cada Seção
@@ -57,6 +57,15 @@ Simular exercícios de matemática em interface web.
 - e) Permitir que ele delete uma seção
 - f) Construir funcionalidade para fazer o CRUD das seções
 
+3:
+- a) Construir a tabela pergunta no banco
+- b) Construir a tabela alternativas no banco
+- c) Construir tela para criar nova pergunta e colocar as respostas
+- d) Fazer mapeamento das tabelas pergunta e resposta
+- e) Construir funcionalidade para fazer o CRUD das perguntas 
+- f) Construir funcionalidade para fazer o CRUD das respostas
+- g) Construir tela que permita edição de perguntas e respostas
+
 ### Histórias
 
 #### Concluídas
@@ -80,6 +89,15 @@ Simular exercícios de matemática em interface web.
 - d) Rafael/Yasmin
 - e) Rafael/Yasmin
 - f) Guilherme
+
+3:
+- a) Gleysson
+- b) Gleysson
+- c) Rafael/Yasmin
+- d) Guilherme
+- e) Guilherme 
+- f) Guilherme
+- g) Rafael/Yasmin
 
 ## Diagrama da Arquitetura
 
