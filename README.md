@@ -63,6 +63,7 @@ Simular exercícios de matemática em interface web.
 
 1:
 - b) Gleysson
+- c) Guilherme
 
 2:
 - a) Gleysson
@@ -71,7 +72,6 @@ Simular exercícios de matemática em interface web.
 
 1:
 - a) Rafael/Yasmin
-- c) Guilherme
 - d) Rafael/Yasmin
 
 2:
