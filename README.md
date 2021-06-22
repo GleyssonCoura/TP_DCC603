@@ -77,6 +77,10 @@ Simular exercícios de matemática em interface web.
 2:
 - a) Gleysson
 
+3:
+- a) Gleysson
+- b) Gleysson
+
 #### Pendentes
 
 1:
@@ -91,8 +95,6 @@ Simular exercícios de matemática em interface web.
 - f) Guilherme
 
 3:
-- a) Gleysson
-- b) Gleysson
 - c) Rafael/Yasmin
 - d) Guilherme
 - e) Guilherme 
