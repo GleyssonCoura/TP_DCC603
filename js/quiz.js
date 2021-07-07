@@ -42,9 +42,7 @@ function generateQuiz(questions, quizContainer, resultsContainer, submitButton){
 		var answers;
 
 		for(var i=0; i<questions.length; i++){
-			
 			answers = [];
-
 			for(letter in questions[i].answers){
 
 				answers.push(
@@ -67,10 +65,7 @@ function generateQuiz(questions, quizContainer, resultsContainer, submitButton){
 
 	function showResults(questions, quizContainer, resultsContainer){
 			
-		
 		var answerContainers = quizContainer.querySelectorAll('.answers');
-		
-		
 		var userAnswer = '';
 		var numCorrect = 0;
 		
@@ -98,7 +93,6 @@ function generateQuiz(questions, quizContainer, resultsContainer, submitButton){
 		}
 
 	showQuestions(questions, quizContainer);
-
 	submitButton.onclick = function(){
 		showResults(questions, quizContainer, resultsContainer);
 	}
