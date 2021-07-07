@@ -1,0 +1,73 @@
+  
+<html>
+
+	<head>
+
+		<meta charset="UTF-8">
+		<title>Simple JavaScript Quiz</title>
+
+		<link rel="stylesheet" href="./quiz-page.component.css">
+
+	</head>
+
+	<body>
+		<header class="menu-principal">
+			<main>
+				<div class="header-1">
+					<div class="logo">
+						<img src="../../assets/images/logo.png" />
+					</div>
+					<div class="redes-sociais">
+						<ul>
+							<li>
+								<a href="">
+									<img src="../../assets/images/face.png" />
+								</a>
+							</li>
+							<li>
+								<a href="">
+									<img src="../../assets/images/tw.png" />
+								</a>
+							</li>
+							<li>
+								<a href="">
+									<img src="../../assets/images/linkedin.png" />
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</main>
+		</header>
+		<main class="col-100 menu-urls">
+			<div class="header-2">
+				<div class="menu">
+					<ul>
+						<li>
+                            <a routerLink="/home">Início</a>
+                        </li>
+                        <li>
+                            <a routerLink="/content">Conteúdos</a>
+                        </li>
+                        <li>
+                            <a routerLink="/quiz"> Quiz</a>
+                        </li>
+                        <li>
+                            <a href="">Ranking</a>
+                        </li>
+                        <li>
+                            <a href="">Blog</a>
+                        </li>
+					</ul>
+				</div>
+				<div class="busca">
+					<input placeholder="Buscar" type="text" />
+				</div>
+			</div>
+		</main>
+			<div class="content quiz">
+				<h1> <strong>Quiz Estatística</strong></h1>
+		<div id="quiz"></div>
+		<button id="submit">Resultados</button>
+		<div id="results"></div>
+		<script  src="js/quiz.js"></script>
