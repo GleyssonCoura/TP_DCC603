@@ -54,16 +54,13 @@ border-bottom: 3px solid #efefef;
     margin-left: 15px;
     height: 50px;
 }
-
 .menu ul li:hover {
     border-bottom: 3px solid #00bac6;
 }
-
 .menu ul li a:hover {
     color: #00bac6;
     
 }
-
 .menu ul li a {
     color: #8b8b8b;
     text-decoration: none;
@@ -79,7 +76,6 @@ float: left;
     width: 30%;
     float: right;
 }
-
 .question{
 	font-weight: 600;
 }
