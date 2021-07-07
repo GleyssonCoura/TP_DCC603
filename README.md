@@ -103,3 +103,4 @@ Simular exercícios de matemática em interface web.
 
 ## Diagrama da Arquitetura
 
+https://online.visual-paradigm.com/community/share/diagrama-dcc603-lzsdqsbrs
